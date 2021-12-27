@@ -21,7 +21,11 @@
   <br /><br />
   기초가 튼튼한 다리가 오래가듯히, 꾸준한 활동으로 블로그와 Github를 채워나가려 합니다.
   <br /><br />
-  잘못된 정보나 코드블록에 대한 리뷰, 조언 남겨주시면 감사드리겠습니다!!</blockquote>
+  잘못된 정보나 코드블록에 대한 리뷰, 조언 남겨주시면 감사드리겠습니다!!
+</blockquote>
+
+#### Contact
+<a href="mailto:harusiku0610@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/>: harusiku0610@gmail.com
 
 <!--
 **harusiku0610/harusiku0610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
