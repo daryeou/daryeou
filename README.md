@@ -9,7 +9,6 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF"/>
-
 <blockquote>
   안녕하세요. Harusiku 입니다.
   <br /><br />
@@ -24,8 +23,13 @@
   잘못된 정보나 코드블록에 대한 리뷰, 조언 남겨주시면 감사드리겠습니다!!
 </blockquote>
 
-#### Contact
-<a href="mailto:harusiku0610@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/> harusiku0610@gmail.com
+## Contact
+<div>
+  <a href="mailto:harusiku0610@gmail.com" target="_blank"><img style="margin-right: 200px;" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
+  <strong>harusiku0610@gmail.com</strong>
+</div>
+
+  
 
 <!--
 **harusiku0610/harusiku0610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
