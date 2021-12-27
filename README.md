@@ -11,10 +11,11 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF"/>
 </div>
+</br>
 <blockquote>
   안녕하세요. Harusiku 입니다.
   <br /><br />
-  컴퓨터공학 마지막 학기를 앞두고 개발 능력 향상과 커리어 준비를 위해 블로그 및 버전, 이슈 관리를 위한 Github를 새로 개설하였습니다.
+  마지막 학기를 앞두고 개발 능력 향상과 커리어 준비를 위해 블로그 및 버전, 이슈 관리를 위한 Github를 새로 개설하였습니다.
   <br /><br />
   가상화폐 거래소의 인턴 경험을 시초로 프론트앤드 Kotlin 개발자로써 실무능력을 쌓아가고 있습니다.
   <br /><br />
@@ -27,8 +28,16 @@
 
 ## Contact
 <div>
-  <a href="mailto:harusiku0610@gmail.com" target="_blank"><img style="margin-right: 200px;" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
-  <strong>harusiku0610@gmail.com</strong>
+  <ul>
+    <li>💬 Ask me about anything</br>
+    <ul>
+      <li>
+        <a href="mailto:harusiku0610@gmail.com" target="_blank"><img style="margin-right: 200px;" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
+        <strong>harusiku0610@gmail.com</strong>
+      </li>
+    </ul>
+    </li>
+  </ul>
 </div>
 
   
