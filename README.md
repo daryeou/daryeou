@@ -32,10 +32,8 @@
   <ul>
     <li>💬 Ask me about anything</br>
     <ul>
-      <li>
-        <a href="mailto:harusiku0610@gmail.com" target="_blank"><img style="margin-right: 200px;" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
-        <strong>harusiku0610@gmail.com</strong>
-      </li>
+      <li><strong>harusiku0610@gmail.com</strong></li>
+      <li><a href="mailto:harusiku0610@gmail.com" target="_blank"><img style="margin-right: 200px;" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a></li>
     </ul>
     </li>
   </ul>
