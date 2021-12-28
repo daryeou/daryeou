@@ -39,7 +39,11 @@
   </ul>
 </div>
 
-  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harusiku0610&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharusiku0610&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<img src="https://img.shields.io/static/v1?label=🔭&message=making Feliz Site&color=<COLOR>"/>
 
 <!--
 **harusiku0610/harusiku0610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -54,4 +58,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+아이콘 만드는 사이트: https://shields.io/
+
+github-readme-stats: https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
+
 -->
