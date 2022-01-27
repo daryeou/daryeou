@@ -56,8 +56,8 @@
 PM Status Table
 Dev 일정|Ticket Name|Status
 ---|:----:|---:
-2022.01.01 ~ </br>2022.01.31|Cryptocurrency Trading App|Open
-2022.01.01 ~ </br>2022.01.31|Feliz Site|Open
+2022.01.01 ~ </br>2022|Cryptocurrency Trading App|Open
+2022.01.01 ~ </br>2022|Feliz Site|Open
 
 
 <!--
