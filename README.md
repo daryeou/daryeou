@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF"/></br>
   <strong>Issue Tracking:</strong> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=FFFFFF"/></br>
-  <strong>Chat:</strong> <a href="https://discord.gg/WDsdQ3aN" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=FFFFFF"/></a>
+  <strong>Chat:</strong> <a href="https://discord.gg/G24FKMJBup" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=FFFFFF"/></a>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=FFFFFF"/></br>
   <strong>UI Tools:</strong> <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=FFFFFF"/>
 
