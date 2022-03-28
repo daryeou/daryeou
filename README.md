@@ -1,11 +1,11 @@
 <h2 align="center">Introduction</h2>
-
-### Front-end mobile developer 
-#### 🚀 주니어 개발자 & 공대생 🔧
 <div align="center">
+  <h2> 🚀 Front-end mobile & Junior Developer 🔧 </h2>
 
-  <a href="https://harusiku.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
-  <a href="https://harusiku.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a><sup>UNRELEASED</sup></br>
+[![Harusiku's GitHub stats](https://github-readme-stats.vercel.app/api?username=harusiku&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+  <strong>Home:</strong> <a href="https://harusiku.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Blogger&logoColor=white"/></a></br>
   <strong>Platform:</strong> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF"/></br>
   <strong>Language:</strong> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=FFFFFF"/>
@@ -18,10 +18,9 @@
   <strong>Issue Tracking:</strong> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=FFFFFF"/></br>
   <strong>Chat:</strong> <a href="https://discord.gg/G24FKMJBup" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=FFFFFF"/></a>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=FFFFFF"/><sup>Not Using Now</sup></br>
-  <strong>UI Tools:</strong> <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=FFFFFF"/></br>
+  <strong>UI Tools:</strong> <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Figma-FF61F6?style=flat-square&logo=Figma&logoColor=#F24E1E"/>
 
-</div>
 </br>
 <blockquote>
   안녕하세요😉 Harusiku 입니다.
@@ -49,7 +48,14 @@
   </ul>
 </div>
 
-[![Harusiku's GitHub stats](https://github-readme-stats.vercel.app/api?username=harusiku&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+<h2 align="center">Skills</h2>
+<a href="https://profile.codersrank.io/user/jellybrick">
+  <p align="center">
+    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=harusiku&width=820&show-other-skills=false&bg=4C566A" width="70%"/>
+  </p>
+</a>
+-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharusiku0610&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <img src="https://img.shields.io/static/v1?label=🔭&message=making Feliz Site&color=<COLOR>"/>
 
