@@ -2,10 +2,10 @@
 <div align="center">
   <h2> 🚀 Front-end mobile & Junior Developer 🔧 </h2>
 
-[![Harusiku's GitHub stats](https://github-readme-stats.vercel.app/api?username=harusiku&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![goodham's GitHub stats](https://github-readme-stats.vercel.app/api?username=daryeou&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-  <strong>Home:</strong> <a href="https://harusiku.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Blogger&logoColor=white"/></a></br>
+  <strong>Home:</strong> <a href="https://goodham.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Blogger&logoColor=white"/></a></br>
   <strong>Platform:</strong> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF"/></br>
   <strong>Language:</strong> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=FFFFFF"/>
@@ -41,8 +41,8 @@
   <ul>
     <li>💬 Ask me about anything</br>
     <ul>
-      <li>📬 <strong>wjgwak0610@gmail.com</strong></li>
-      <li><a href="mailto:harusiku0610@gmail.com" target="_blank"><img style="margin-right: 200px;" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a></li>
+      <li>📬 <strong>daryeou@gmail.com</strong></li>
+      <li><a href="mailto:daryeou@gmail.com" target="_blank"><img style="margin-right: 200px;" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a></li>
     </ul>
     </li>
   </ul>
@@ -58,7 +58,7 @@
 -->
 ---
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=goodham0610&labels=true"/>
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=daryeou&labels=true"/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharusiku0610&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <img src="https://img.shields.io/static/v1?label=🔭&message=making Feliz Site&color=<COLOR>"/>
 
