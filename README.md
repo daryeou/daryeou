@@ -27,9 +27,9 @@
   <br /><br />
   개발 능력 향상과 커리어 준비를 위해 블로그 및 버전, 이슈 관리를 위한 Github를 새로 개설하였습니다.
   <br /><br />
-  가상화폐 거래소의 인턴 경험을 시초로 프론트앤드 Kotlin 개발자로써 실무능력을 쌓아가고 있습니다.
+  가상화폐 거래소의 인턴 경험을 시초로 Android mobile app 개발자로써 실무능력을 쌓아가고 있습니다.
   <br /><br />
-  주력 언어는 Kotlin, Python, Java8 이며 C, Javascript 를 함께 활용하고 있습니다.
+  주력 언어는 Kotlin, Java8, Python 이며 MVVM, Clean Architecture 기반으로 작업하고 있습니다.
   <br /><br />
   기초가 튼튼한 다리가 오래가듯히, 꾸준한 활동으로 블로그와 Github를 채워나가려 합니다.
   <br /><br />
