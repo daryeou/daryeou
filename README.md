@@ -60,12 +60,12 @@
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=daryeou&labels=true"/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharusiku0610&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <img src="https://img.shields.io/static/v1?label=🔭&message=Lets Dev&color=<COLOR>"/>
-
-PM Status Table
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharusiku0610&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <img src="https://img.shields.io/static/v1?label=🔭&message=Lets Dev&color=<COLOR>"/>
+ -->
+<!-- PM Status Table
 Dev 일정|Ticket Name|Status
 ---|:----:|---:
-2022.02.14 ~ </br>2022|Cryptocurrency Trading App|Open
+2022.02.14 ~ </br>2022|Cryptocurrency Trading App|Open -->
 
 
 <!--
