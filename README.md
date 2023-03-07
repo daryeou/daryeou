@@ -32,9 +32,14 @@
   주력 언어는 Kotlin, Java8, Python 이며 MVVM, Clean Architecture 기반으로 작업하고 있습니다.
   <br /><br />
   기초가 튼튼한 다리가 오래가듯히, 꾸준한 활동으로 블로그와 Github를 채워나가려 합니다.
-  <br /><br />
-  잘못된 정보나 코드블록에 대한 리뷰, 조언 남겨주시면 감사드리겠습니다!!
 </blockquote>
+
+<h2 align="center">Services in operation</h2>
+<div>
+  <ul>
+    <li><a href="https://koreanbots.dev/bots/1075781017647980555" target="_blank">러브라뗴 디스코드 봇</</br></li>
+  </ul>
+</div>
 
 <h2 align="center">Contact</h2>
 <div>
