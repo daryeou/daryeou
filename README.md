@@ -27,12 +27,20 @@
   <br /><br />
   개발 능력 향상과 커리어 준비를 위해 블로그 및 버전, 이슈 관리를 위한 Github를 새로 개설하였습니다.
   <br /><br />
-  가상화폐 거래소의 인턴 경험을 시초로 Android mobile app 개발자로써 실무능력을 쌓아가고 있습니다.
+  현업에 종사하며 Android mobile app 개발자로써 실무능력을 쌓아가고 있습니다.
   <br /><br />
   주력 언어는 Kotlin, Java8, Python 이며 MVVM, Clean Architecture 기반으로 작업하고 있습니다.
   <br /><br />
   기초가 튼튼한 다리가 오래가듯히, 꾸준한 활동으로 블로그와 Github를 채워나가려 합니다.
 </blockquote>
+
+<h2 align="center">Project</h2>
+<div>
+  <ul>
+    <li><a href="https://sesacthon-apply.goorm.io" target="_blank">2023 ☘ 새싹톤(SeSACTHON) 서울의 미래를 바꾸는 청년</</br></li>
+  </ul>
+</div>
+
 
 <h2 align="center">Services in operation</h2>
 <div>
@@ -76,7 +84,7 @@ Dev 일정|Ticket Name|Status
 
 
 <!--
-**harusiku0610/harusiku0610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**daryeou/daryeou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
