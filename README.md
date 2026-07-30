@@ -1,74 +1,86 @@
-<h2 align="center">Introduction</h2>
 <div align="center">
-  <h2> 🚀 Mobile Developer 🔧 </h2>
 
-[![goodham's GitHub stats](https://github-readme-stats.vercel.app/api?username=daryeou&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+# Kwak Wonjo
+
+### Android App Developer
+
+Kotlin과 Jetpack Compose를 중심으로, 안정적으로 운영할 수 있는 모바일 제품을 만듭니다.
+
+[![Blog](https://img.shields.io/badge/Tech_Blog-181717?style=flat-square&logo=tistory&logoColor=white)](https://daryeou.tistory.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:daryeou@gmail.com)
+
 </div>
 
-  <strong>Home:</strong> <a href="https://goodham.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Blogger&logoColor=white"/></a></br>
-  <strong>Platform:</strong> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF"/></br>
-  <strong>Language:</strong> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF"/></br>
-  <strong>Issue Tracking:</strong> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=FFFFFF"/></br>
-  <strong>Chat:</strong> <!--<a href="https://discord.gg/G24FKMJBup" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=FFFFFF"/></a>-->
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=FFFFFF"/></br>
-  <strong>UI Tools:</strong> <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Figma-FF61F6?style=flat-square&logo=Figma&logoColor=#F24E1E"/>
+## About
 
-</br>
-<blockquote>
-  안녕하세요😉
-  <br /><br />
-  개발 능력 향상과 커리어 준비를 위해 블로그 및 버전, 이슈 관리를 위한 Github를 새로 개설하였습니다.
-  <br /><br />
-  현업에 종사하며 Android 앱 개발자로써 실무능력을 쌓아가고 있습니다.
-  <br /><br />
-  주력 언어는 Kotlin, Java8, Python 입니다.
-  <br /><br />
-  기초가 튼튼한 다리가 오래가듯히, 꾸준한 활동으로 블로그와 Github를 채워나가려 합니다.
-</blockquote>
+실시간으로 변하는 금융 서비스부터 **100만+ 다운로드, MAU 30만+ 규모의 게임 리워드 플랫폼**까지 경험한 5년 차 Android 개발자입니다.
 
-<h2 align="center">Project</h2>
-<div>
-  <ul>
-    <li><a href="https://sesacthon-apply.goorm.io" target="_blank">2023 ☘ 새싹톤(SeSACTHON) 서울의 미래를 바꾸는 청년</</br></li>
-  </ul>
-</div>
+기능 구현에 그치지 않고 아키텍처 설계, Jetpack Compose 전환, 성능 측정과 최적화, 배포 및 운영 이슈 대응까지 제품의 전체 생명주기를 다룹니다. 사용자가 체감하는 안정성과 팀이 오래 유지보수할 수 있는 구조를 함께 만드는 것을 중요하게 생각합니다.
 
+## Experience Highlights
 
-<h2 align="center">Services in operation</h2>
-<div>
-  <ul>
-    <li><a href="https://koreanbots.dev/bots/1075781017647980555" target="_blank">러브라뗴 디스코드 봇</</br></li>
-  </ul>
-</div>
+### [Playio](https://play.google.com/store/apps/details?id=com.gna.playio) · GNA Company
 
-<h2 align="center">Contact</h2>
-<div>
-  <ul>
-    <li>💬 Ask me about anything</br>
-    <ul>
-      <li>📬 <strong>daryeou@gmail.com</strong></li>
-      <li><a href="mailto:daryeou@gmail.com" target="_blank"><img style="margin-right: 200px;" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a></li>
-    </ul>
-    </li>
-  </ul>
-</div>
+`2023.06 — 2026.02` · 게임 리워드 플랫폼
 
-<!--
-<h2 align="center">Skills</h2>
-<a href="https://profile.codersrank.io/user/jellybrick">
-  <p align="center">
-    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=daryeou&width=820&show-other-skills=false&bg=4C566A" width="70%"/>
-  </p>
-</a>
--->
+- 파티, 퀘스트, 오퍼월, 보상 등 핵심 기능의 설계부터 출시와 운영까지 담당
+- Clean Architecture 기반 10개 이상의 core 모듈과 20개 이상의 공통 Compose 컴포넌트 구축
+- View 기반 화면의 Compose 전환과 Firebase Performance 기반 성능 측정 체계 도입
+- MessagePack과 Zstandard를 활용한 이미지 업로드 파이프라인 최적화
+- Android 프로세스 생명주기와 관련된 서드파티 SDK 결함을 분석·제보하여 패치에 기여
+
+### [A-Bee](https://play.google.com/store/apps/details?id=com.app.abee) · The A-Bee
+
+`2022.04 — 2023.05` · 지역 상인 광고 서비스
+
+- Java 코드를 Kotlin으로 전환하고 MVVM, Clean Architecture, Flow, Hilt를 도입
+- Foreground Service 기반 오버레이 광고와 WYSIWYG 광고 편집·결제 흐름 개발
+- Firebase Crashlytics를 활용한 운영 안정성 개선
+
+### [Korbit](https://play.google.com/store/apps/details?id=com.korbit.exchange)
+
+`2021.07 — 2021.12` · 가상자산 거래소
+
+- 실시간 시세와 보유 자산을 제공하는 Android 홈 화면 위젯 개발
+- Foreground Service와 BroadcastReceiver를 활용한 백그라운드 업데이트 구현
+
+## Selected Projects
+
+### [Greenie — On-device AI Noise Analyzer](https://github.com/Greenie-crew/greenie-android)
+
+생활 소음을 녹음하고 온디바이스 AI로 소음원을 분석하는 Android 앱입니다. 2023 서울시 새싹톤에서 인기상을 수상했습니다.
+
+- Kotlin, Jetpack Compose, TensorFlow Lite, Room, Retrofit, Hilt
+- AudioRecord 기반 PCM 수집 및 WAV 변환, YAMNet 기반 소음 분류
+- 장시간 녹음 시 발생하던 메모리 문제를 파일 스트리밍 방식으로 개선
+- Foreground Service를 활용한 백그라운드 녹음과 트래킹 구현
+
+### [Image Search & Collection](https://github.com/daryeou/kakao-assignment)
+
+이미지와 동영상 검색 결과를 시간순으로 통합하고 로컬 보관함을 제공하는 Compose 기반 Android 앱입니다.
+
+- Kotlin, Jetpack Compose, Retrofit, Coroutines, Hilt
+- 멀티 모듈 구조와 Secrets Gradle Plugin을 활용한 API 키 분리
+- 서로 다른 두 API의 페이지네이션 결과를 시간 기준으로 병합
+
+## Technical Focus
+
+| Area | Technologies |
+| --- | --- |
+| Android | Kotlin, Java, Jetpack Compose, Coroutines, Flow, Navigation, Paging 3 |
+| Architecture | Clean Architecture, MVVM, MVI, Multi-module, Dependency Injection |
+| Data & Network | Retrofit, OkHttp, Room, DataStore, SQLite, MessagePack, Zstandard |
+| Quality & Operations | Firebase Performance, Crashlytics, Remote Config, FCM, GitHub Actions |
+
+## Technical Writing
+
+- [Android 동적 로딩 — DexClassLoader, PathClassLoader, InMemoryDexClassLoader](https://daryeou.tistory.com/408)
+- [Foreground Service가 서드파티 SDK 초기화에 미치는 문제](https://daryeou.tistory.com/396)
+- [Playio Android 개발자 2년 9개월 회고](https://daryeou.tistory.com/401)
+
+---
+
+새로운 기술을 빠르게 적용하는 것보다, 문제의 원인을 끝까지 추적하고 제품과 팀에 남는 형태로 해결하는 개발자를 지향합니다.
 
 ---
 
