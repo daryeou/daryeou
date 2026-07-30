@@ -74,21 +74,20 @@ Kotlin과 Jetpack Compose를 중심으로, 안정적으로 운영할 수 있는 
 
 ## Technical Writing
 
+- [바이브코딩 세미나 후기 — 구현보다 중요해진 판단과 검증](https://daryeou.tistory.com/413)
 - [Android 동적 로딩 — DexClassLoader, PathClassLoader, InMemoryDexClassLoader](https://daryeou.tistory.com/408)
 - [Foreground Service가 서드파티 SDK 초기화에 미치는 문제](https://daryeou.tistory.com/396)
+
+## Career Notes
+
 - [Playio Android 개발자 2년 9개월 회고](https://daryeou.tistory.com/401)
+- [코빗에서 시작한 Android 개발자 인턴 회고](https://daryeou.tistory.com/12)
 
 ---
 
 새로운 기술을 빠르게 적용하는 것보다, 문제의 원인을 끝까지 추적하고 제품과 팀에 남는 형태로 해결하는 개발자를 지향합니다.
 
 ---
-
-<!-- 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=daryeou&labels=true"/>
--->
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharusiku0610&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <img src="https://img.shields.io/static/v1?label=🔭&message=Lets Dev&color=<COLOR>"/>
 <!-- PM Status Table
 Dev 일정|Ticket Name|Status
 ---|:----:|---:
